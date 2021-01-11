@@ -4,6 +4,8 @@
 
 SLWOOVIW is a non profit organization focusing on the welfare of the visually impairied women in Sri Lanka.
 
+![Alt text](/screenshots/home.jpg?raw=true "Home page")
+
 ## Status
 
 
