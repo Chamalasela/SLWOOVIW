@@ -1,8 +1,8 @@
 # [SLWOOVIW - Sri Lanka Welfare Organization Of Visually Impaired Women](https://chamalasela.github.io/SLWOOVIW/)
 
-[Landing Page](https://chamalasela.github.io/SLWOOVIW/) is a multipurpose landing page template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
 SLWOOVIW is a non profit organization focusing on the welfare of the visually impairied women in Sri Lanka.
+
+template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ![Alt text](/screenshots/home.jpg?raw=true "Home page")
 
