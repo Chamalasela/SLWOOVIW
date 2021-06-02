@@ -6,10 +6,14 @@ template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap]
 
 ![Alt text](/screenshots/home.jpg?raw=true "Home page")
 
+Live demo of the site : [SLWOOVIW Web site](https://chamalasela.github.io/SLWOOVIW/)
+
 ## Status
 
 
 ## Plans
+
+
 
 ## Download and Installation
 
